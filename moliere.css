@@ -43,6 +43,13 @@ text-align: center;}
 .tr3 {background-color:orange;}
 
 
+.name:hover {
+    text-shadow: 2px rgb(209, 91, 140);
+    color:rgb(209, 91, 140);
+    filter:blur(3px);
+    border:solid 2px rebeccapurple;
+}
+
 
 
 
