@@ -6,6 +6,7 @@
 .direction{
     font-family:'Times New Roman';
     font-size: 20px;
+    background-color: aquamarine;
     color:red;
 
 }
@@ -26,3 +27,23 @@
     color:blue;
 
 }
+.direction:hover{
+    color: bisque;
+    background-color: black;
+}
+
+
+.table { border: dashed 3px;
+padding: 30px;
+text-align: center;}
+.td, th {border: solid 1px;
+    text-align: center;}
+.tr1 {background-color:pink ;}
+.tr2 {background-color:rgb(123, 243, 123) ;}
+.tr3 {background-color:orange;}
+
+
+
+
+
+
